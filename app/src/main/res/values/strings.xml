@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyStartApp</string>
+    <string name="main_recyclerBtn" />
+</resources>
